@@ -4,8 +4,8 @@
 
 - Download the file and open it, I see it is a txt file consisting of at most many lines of the form: (x, y): a, b, c
   (you can see it on file RGB.txt)
- + x, y : the coordinates of the pixel
- + a,b,c : the corresponding color code
+   + x, y : the coordinates of the pixel
+   + a,b,c : the corresponding color code
 - I realized that combining them would create a complete picture, using Python code :
   ```python
   from PIL import Image
@@ -42,7 +42,7 @@ and we got a png:
 
 <img src="1.png" alt="output image python script" width="350"/>
 
--Use stegsolve to see hidden in it, we got flag : 
+- Use "stegsolve" to see hidden in it, we got flag : 
 
 <img src="2.png" alt="output image python script" width="350"/>
 
