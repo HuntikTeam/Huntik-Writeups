@@ -39,8 +39,10 @@
 
 and we got a png: 
 
+<img src="1.png" alt="output image python script" width="350"/>
+
 -Use stegsolve to see hidden in it, we got flag : 
 
-
+<img src="2.png" alt="output image python script" width="350"/>
 
 -flag: CODEBY{0h_my_g00dn3ss_u_c00l}
