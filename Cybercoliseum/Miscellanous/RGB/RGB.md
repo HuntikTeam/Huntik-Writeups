@@ -3,8 +3,9 @@
 ### Challenge: RGB
 
 - Download the file and open it, I see it is a txt file consisting of at most many lines of the form: (x, y): a, b, c
- + x, y : the coordinates of the pixel
- + a,b,c : the corresponding color code
+  (you can see it on file 1280x853.txt)
+   + x, y : the coordinates of the pixel
+   + a,b,c : the corresponding color code
 - I realized that combining them would create a complete picture, using Python code :
   ```python
   from PIL import Image
@@ -39,8 +40,10 @@
 
 and we got a png: 
 
--Use stegsolve to see hidden in it, we got flag : 
+<img src="1.png" alt="output image python script" width="350"/>
 
+- Use "stegsolve" to see hidden in it, we got flag : 
 
+<img src="2.png" alt="output image python script" width="350"/>
 
--flag: CODEBY{0h_my_g00dn3ss_u_c00l}
+->flag: CODEBY{0h_my_g00dn3ss_u_c00l}
