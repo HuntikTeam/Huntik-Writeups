@@ -3,6 +3,7 @@
 ### Challenge: RGB
 
 - Download the file and open it, I see it is a txt file consisting of at most many lines of the form: (x, y): a, b, c
+  (you can see it on file RGB.txt)
  + x, y : the coordinates of the pixel
  + a,b,c : the corresponding color code
 - I realized that combining them would create a complete picture, using Python code :
@@ -45,4 +46,4 @@ and we got a png:
 
 <img src="2.png" alt="output image python script" width="350"/>
 
--flag: CODEBY{0h_my_g00dn3ss_u_c00l}
+->flag: CODEBY{0h_my_g00dn3ss_u_c00l}
