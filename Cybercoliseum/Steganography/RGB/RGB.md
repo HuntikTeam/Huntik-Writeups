@@ -3,7 +3,7 @@
 ### Challenge: RGB
 
 - Download the file and open it, I see it is a txt file consisting of at most many lines of the form: (x, y): a, b, c
-  (you can see it on file RGB.txt)
+  (you can see it on file 1280x853.txt)
    + x, y : the coordinates of the pixel
    + a,b,c : the corresponding color code
 - I realized that combining them would create a complete picture, using Python code :
