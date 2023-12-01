@@ -48,7 +48,13 @@ print(f"{ct=}")
 
 The file reveals how the Cypher text was built -> by having N being a multiple of many primes.
 This means that we can easily factor N and calculate  which is enough to decypher the text.
-The only tricky part here is that instead of the standard RSA where you only work with 2 primes `p` and `q` and caluclate the .... by multiplying `(p-1)(q-1)`
+The only tricky part here is that instead of the standard RSA where you only work with 2 primes `p` and `q` and caluclate  
+�
+(
+�
+)
+\varphi (n)
+by multiplying `(p-1)(q-1)`
 
 With this information we can easily built the decyphering script.
 The key points are :
