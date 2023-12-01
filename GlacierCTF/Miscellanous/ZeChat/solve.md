@@ -1,6 +1,6 @@
 ## 4. ZeChat (Misc)
 
-- ![Smile](/1337/ZeChat/zechat.png)
+- <img src="zechat.png" alt="output image python script" width="500"/>
 - This was honestly one of the hardest challenges I've ever done. Only 7 teams solved this challenge, not including my team. I spent up to 8 hours solving this challenge by hand, including reading the article. You can read [Chivato's article](https://hackmd.io/@Chivato/SkN3Piyan) to solve this problem.
   The binary string that I execute is:
 
