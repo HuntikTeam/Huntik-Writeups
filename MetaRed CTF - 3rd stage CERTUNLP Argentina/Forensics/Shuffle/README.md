@@ -6,7 +6,9 @@
 But I hope to be able to get accepted to WU for it here. Thanks everyone.*
 
 - The challenge gives me a file in PNG format, but I can't open it. Use `hexedit` to check its data bits.
-- ![Smile] (/)
+
+- <img src="hex-bit.png" width="500" height="200">
+ 
 - Comparing with a standard PNG file, we see the following: every 12 bytes will be 1 block, divide it into 3 blocks, each block consists of 4 bytes, and the error here is that the next 2 bytes of block 1 will be 2 bytes. the beginning of the second block, that is, the last 2 bytes and the first 2 bytes of blocks 1 and 2 are swapped.
 And we see that in the third block, the first and last two will change places.
 Just like that until the end of the hex file.
@@ -41,4 +43,5 @@ Just like that until the end of the hex file.
 
     fix_file('challenge_file_name')
 - Open it again and we got the flag :
-  - ![Smile] (/)
+  - <img src="flag.png" width="500" height="400">
+
