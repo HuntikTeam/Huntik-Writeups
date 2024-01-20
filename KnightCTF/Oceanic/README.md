@@ -23,5 +23,5 @@ Comment:  8qQd3iMYmtsyto7aXUuw1KVRpQFCRxqRtJiRgP85e36y
 I opened the .wav with DeepSound as password, used the text found previously in the image and another image flag.png was extracted
 
 
-![[2024-01-20-13:41:35-screenshot.png]]
+<img src="strings.png" width="500"/>
 
