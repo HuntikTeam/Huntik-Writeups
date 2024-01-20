@@ -6,7 +6,7 @@
 |Flag Format: KCTF{S0m3th1ng_h3re}|
 |_**Author: Ibrahim Saify {YCF}**_|
 
-![[2024-01-20-13:25:40-screenshot.png|650x300]]
+![Image](202)
 
 ```bash
 $ exiftool clue.jpg
