@@ -1,5 +1,5 @@
 
 | Category    | Challenge Name   | Descripiton   | Technique    | Huntik Writeup   | Alternative Solution   |
 | ----------- | ---------------  | ------------  | ------------ | ---------------- | ---------------------- |
-| Cryptography      | Limited 1      | ![Description](./Cryptography/Limited%201/Limited%201.png)        | Title        | Header           | Title                  |
-| Paragraph   | Text             | Paragraph     | Bruteforce Weak Random         | Paragraph        | Text                   | 
+| Cryptography      | Limited 1      | ![Description](./Cryptography/Limited%201/Limited%201.png)   | Bruteforce Weak Random         | (./Cryptography/Limited%201/Writeup.md)           | [Title](https://blog.lightender.fr/writeups/wolv_ctf_2024#limited1)              |
+| Paragraph   | Text             | Paragraph     | a        | Paragraph        | Text                   | 
