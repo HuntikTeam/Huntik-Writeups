@@ -1,5 +1,5 @@
 
 | Category    | Challenge Name   | Descripiton   | Technique    | Huntik Writeup   | Alternative Solution   |
 | ----------- | ---------------  | ------------  | ------------ | ---------------- | ---------------------- |
-| Header      | Title            | Header        | Title        | Header           | Title                  |
+| Cryptography      | Limited 1            | Header        | Title        | Header           | Title                  |
 | Paragraph   | Text             | Paragraph     | Text         | Paragraph        | Text                   | 
