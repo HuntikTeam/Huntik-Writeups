@@ -8,3 +8,7 @@
 | Cryptography   | Tag Series 1          | ![Description](./Cryptography/Tag%20Series%201/Tag%20Series%201.png)   |        | [Tag Series 1]           | [Tag Series 1](https://blog.lightender.fr/writeups/wolv_ctf_2024#tagseries1)
 | Cryptography   | Tag Series 2          | ![Description](./Cryptography/Tag%20Series%202/Tag%20Series%202.png)   |        | [Tag Series 2]           | [Tag Series 2]
 | Cryptography   | Tag Series 3          | ![Description](./Cryptography/Tag%20Series%203/Tag%20Series%203.png)   |        | [Tag Series 3]           | [Tag Series 3](https://blog.lightender.fr/writeups/wolv_ctf_2024#tagseries3)
+| Web   | Bean Cafe          | ![Description](./Web/BeanCafe.png)   |        | [Bean Cafe]           | [Bean Cafe]
+| Web   | Upload Fun          | ![Description](./Web/UploadFun.png)   |        | [Upload Fun]           | [Upload Fune]
+| Web   | Username          | ![Description](./Web/Username.png)   |        | [Username]           | [Username]
+| Web   | Order Up 1          | ![Description](./Web/OrderUp1.png)   |        | [Order Up 1]           | [Order Up 1]
