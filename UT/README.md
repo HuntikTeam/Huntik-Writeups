@@ -1,8 +1,8 @@
 # UT
 
-## About
+## Standings
 
-[insert description here]
+![Description](./Team%20Standings.png)
 
 ## Challenges
 
