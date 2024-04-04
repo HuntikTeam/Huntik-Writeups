@@ -6,24 +6,24 @@
 
 ## Challenges
 
-| Category    | Challenge Link   | Solves | Technique    | Huntik Writeup   | Alternative Solution   |
+| Category    | Challenge Link   | Solves | Technique // Unintended Solution    | Huntik Writeup   | Alternative Writeup   |
 | ----------- | ---------------  | ------ | ------------ | ---------------- | ---------------------- |
-| Cryptography   | [RSA-256](challenges/Cryptography/rsa-256/)    |    627     |            |           |
-| Cryptography   | [numbers go brrr](challenges/Cryptography/numbers-go-brrr/)   |   228      |            |  |
-| Cryptography   | [Cryptordle](challenges/Cryptography/cryptordle/)    |    150     |            |  |
-| Cryptography   | [bits and pieces](challenges/Cryptography/bits-and-pieces/)    |   218      |            |  |
-| Cryptography   | [Beginner: Anti-dcode.fr](challenges/Cryptography/beginner-anti-dcodefr/)  | 305        |            |  |
+| Cryptography   | [RSA-256](challenges/Cryptography/rsa-256/)    |    627     |   RSA - Factor DB   |           |
+| Cryptography   | [numbers go brrr](challenges/Cryptography/numbers-go-brrr/)   |   228      |   Bruteforce Random Seed   |  |
+| Cryptography   | [Cryptordle](challenges/Cryptography/cryptordle/)    |    150     |    Modular Arithmetics        |  |
+| Cryptography   | [bits and pieces](challenges/Cryptography/bits-and-pieces/)    |   218      |     // RSA - Factor DB |  |
+| Cryptography   | [Beginner: Anti-dcode.fr](challenges/Cryptography/beginner-anti-dcodefr/)  | 305        |    ROT cipher        |  |
 | Cryptography   | [Forgery](challenges/Cryptography/forgery/)    |    6     |            |  |
-| Cryptography   | [simple signature](challenges/Cryptography/simple-signature/)    |   95      |            |  |
-| Cryptography   | [numbers go brrr 2](challenges/Cryptography/numbers-go-brrr-2/)    |  126       |            |  |
-| Forensics   | [Contracts](challenges/Forensics/contracts/)    |    387     |            |           |
-| Forensics   | [A Very Professional Website](challenges/Forensics/a-very-professional-website/)    |  142       |            |           |
-| Forensics   | [Study Music](challenges/Forensics/study-music/)    |   122      |            |           |
+| Cryptography   | [simple signature](challenges/Cryptography/simple-signature/)    |   95      |  RSA - ciphertext > N       |  |
+| Cryptography   | [numbers go brrr 2](challenges/Cryptography/numbers-go-brrr-2/)    |  126       |  Bruteforce Random Seed  |  |
+| Forensics   | [Contracts](challenges/Forensics/contracts/)    |    387     |   pdf2images extract         |           |
+| Forensics   | [A Very Professional Website](challenges/Forensics/a-very-professional-website/)    |  142       |   Fuzz for .git and extract with [git-dumper](https://github.com/arthaud/git-dumper) |           |
+| Forensics   | [Study Music](challenges/Forensics/study-music/)    |   122      |  Download big MP3 from YT with [Y2NB](https://y2nb.com/en/) , split it with ffmpeg and decode Morse from one of the audios |           |
 | Forensics   | [Insanity Check: Reimagined](challenges/Forensics/insanity-check-reimagined/)    |   24      |            |           |
 | Forensics   | [Gibberish](challenges/Forensics/gibberish/)    |    31     |            |           |
-| OSINT       | [OSINT 1](challenges/Forensics/osint-1/)    |   202      |            |           |
-| OSINT       | [OSINT 2](challenges/Forensics/osint-2/)    |  141       |            |           |
-| OSINT       | [OSINT 3](challenges/Forensics/osint-3/)    |    96     |            |           |
+| OSINT       | [OSINT 1](challenges/Forensics/osint-1/)    |   202      |   Google person's name -> Twitter -> Linktree -> Youtube -> Discord Link     |           |
+| OSINT       | [OSINT 2](challenges/Forensics/osint-2/)    |  141       |   Linktree -> Picture in Mastodon + Discord messages -> Google Maps search   |           |
+| OSINT       | [OSINT 3](challenges/Forensics/osint-3/)    |    96      |   Linktree -> Reddit -> Comparison between [Old Reddit](https://old.reddit.com/) and current one in subreddit -> Fandom Wiki -> Revision Log     |           |
 | Reverse Engineering  | [Fruit Deals](challenges/Reverse%20Engineering/fruit-deals/)    |  239       |            |           |
 | Reverse Engineering  | [PES-128](challenges/Reverse%20Engineering/pes-128/)    |   57      |            |           |
 | Reverse Engineering  | [Beginner: Basic Reversing Problem](challenges/Reverse%20Engineering/beginner-basic-reversing-problem/)    |   310      |            |           |
