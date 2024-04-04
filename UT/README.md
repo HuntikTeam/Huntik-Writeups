@@ -45,5 +45,5 @@
 * [CCV](challenges/Misc/ccv/)
 ### Binary Exploitation
 
-* [Handwritten Webserver](challenges/Binary Exploitation/handwritten-webserver/)
-* [E-Corp](challenges/Binary Exploitation/e-corp/)
+* [Handwritten Webserver](challenges/Binary%20Exploitation/handwritten-webserver/)
+* [E-Corp](challenges/Binary%20Exploitation/e-corp/)
