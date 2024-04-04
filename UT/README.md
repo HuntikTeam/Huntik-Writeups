@@ -28,11 +28,11 @@
 * [Gibberish](challenges/Forensics/gibberish/)
 ### Reverse Engineering
 
-* [Fruit Deals]("challenges/Reverse Engineering/fruit-deals/")
-* [PES-128](challenges/Reverse Engineering/pes-128/)
-* [Beginner: Basic Reversing Problem](challenges/Reverse Engineering/beginner-basic-reversing-problem/)
-* [In The Dark](challenges/Reverse Engineering/in-the-dark/)
-* [Accelerated Hell](challenges/Reverse Engineering/accelerated-hell/)
+* [Fruit Deals](challenges/Reverse%20Engineering/fruit-deals/)
+* [PES-128](challenges/Reverse%20Engineering/pes-128/)
+* [Beginner: Basic Reversing Problem](challenges/Reverse%20Engineering/beginner-basic-reversing-problem/)
+* [In The Dark](challenges/Reverse%20Engineering/in-the-dark/)
+* [Accelerated Hell](challenges/Reverse%20Engineering/accelerated-hell/)
 ### Web
 
 * [Schrödinger](challenges/Web/schrdinger/)
