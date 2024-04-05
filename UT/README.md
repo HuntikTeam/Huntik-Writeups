@@ -24,7 +24,7 @@
 | OSINT       | [OSINT 1](challenges/Forensics/osint-1/)    |   202      |   Google person's name -> Twitter -> Linktree -> Youtube -> Discord Link     |           |
 | OSINT       | [OSINT 2](challenges/Forensics/osint-2/)    |  141       |   Linktree -> Picture in Mastodon + Discord messages -> Google Maps search   |           |
 | OSINT       | [OSINT 3](challenges/Forensics/osint-3/)    |    96      |   Linktree -> Reddit -> Comparison between [Old Reddit](https://old.reddit.com/) and current one in subreddit -> Fandom Wiki -> Revision Log     |           |
-| Reverse Engineering  | [Fruit Deals](challenges/Reverse%20Engineering/fruit-deals/)    |  239       |            |           |
+| Reverse Engineering  | [Fruit Deals](challenges/Reverse%20Engineering/fruit-deals/)    |  239       |  Extract macros with olevba // Debug with libreoffice |           |
 | Reverse Engineering  | [PES-128](challenges/Reverse%20Engineering/pes-128/)    |   57      |            |           |
 | Reverse Engineering  | [Beginner: Basic Reversing Problem](challenges/Reverse%20Engineering/beginner-basic-reversing-problem/)    |   310      |            |           |
 | Reverse Engineering  | [In The Dark](challenges/Reverse%20Engineering/in-the-dark/)    |   7      |            |           |
