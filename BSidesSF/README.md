@@ -1,4 +1,4 @@
-# UT
+# BSidesSF
 
 ## Standings
 
