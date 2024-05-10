@@ -12,9 +12,9 @@ https://github.com/BSidesSF/ctf-2024-release/tree/main
 
 | Category    | Challenge Link   | Solves | Technique // Unintended Solution    | Huntik Writeup   | Alternative Writeup   |
 | ----------- | ---------------  | ------ | ------------ | ---------------- | ---------------------- |
+| Cryptography   | [missing characters]()    |    113     |  Flag is formed out of the missing number in an array    |           |
+| Cryptography/Rev   | [shinji]()    |    65     |  Decompile Kotlin with jadx , Bruteforce random seed within given range   |           |
 | Cryptography   | [f1at]()    |    37     |      |           |
-| Cryptography   | [missing characters]()    |    113     |      |           |
-| Cryptography/Rev   | [shinji]()    |    65     |      |           |
 | Cryptography   | [kodakthriller]()    |    16     |      |           |
 | Cryptography   | [truthescrow-1]()    |    15     |      |           |
 | Cryptography   | [opnukeagi]()    |    14     |      |           |
