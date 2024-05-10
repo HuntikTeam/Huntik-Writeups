@@ -4,7 +4,7 @@
 
 ![Description](./Team%20Standings.png)
 
-## Official Repo
+## Official Repo with Solutions
 
 https://github.com/BSidesSF/ctf-2024-release/tree/main
 
