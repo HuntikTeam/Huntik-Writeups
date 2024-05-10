@@ -18,9 +18,8 @@ https://github.com/BSidesSF/ctf-2024-release/tree/main
 | Cryptography   | [kodakthriller]()    |    16     |  Manual work - symbols need to be decoded with the clue word   |           |
 | Cryptography   | [truthescrow-1]()    |    15     |      |           |
 | Cryptography   | [opnukeagi]()    |    14     |      |           |
-| Cryptography   | [truthescrow-1]()    |    16     |      |           |
 | Cryptography/Pwn/Web | [Can't Give In (securer)]()    |    11     |      |           |
 | Cryptography   | [Core Web Access]()    |    10    |      |           |
 | Cryptography   | [truthescrow-2]()    |    9     |      |           |
 | Cryptography   | [aicodebook]()    |    7     |      |           |
-| Cryptography   | [Core Web Access 2.0]()    |    3     |      |           |
+| Cryptography/Web   | [Core Web Access 2.0]()    |    3     |      |           |
