@@ -75,7 +75,5 @@ The options for server communication we have are :
 
 
 
-![Description](../../../images/Credentials.png)
-
 ## Flag
 `wgmy{ce7a475ff0e122e6ac34c3765449f71d}`
