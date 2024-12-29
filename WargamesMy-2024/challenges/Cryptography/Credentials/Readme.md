@@ -23,4 +23,4 @@ After 2-3 tries one in particular catches the eye :
 We can immediately recognize that this awfully looks like the flag with some ROT.
 Putting this in Cyberchef quickly confirms it so we get the flag.
 
-![Description](../../../images/TeamStandings.png)
+![Description](../../../images/Credentials.png)
