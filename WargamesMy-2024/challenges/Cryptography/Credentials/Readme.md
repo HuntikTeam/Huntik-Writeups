@@ -24,3 +24,6 @@ We can immediately recognize that this awfully looks like the flag with some ROT
 Putting this in Cyberchef quickly confirms it so we get the flag.
 
 ![Description](../../../images/Credentials.png)
+
+## Flag
+`WGMY{b6d180d9c302d8a8daad1f2174a0b212}`
