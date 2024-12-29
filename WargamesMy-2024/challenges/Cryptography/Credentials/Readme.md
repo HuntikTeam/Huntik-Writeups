@@ -8,3 +8,8 @@ Author: Alhfs
 
 ## Hint
 The first user in user.txt corresponds to the first password in passwords.txt
+
+## Files
+
+* [Leak_stuff](files/Leak_stuff.rar)
+## Solution
