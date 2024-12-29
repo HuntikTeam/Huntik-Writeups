@@ -61,6 +61,18 @@ while True:
 ```
 ## Solution
 
+Let's analyze the given code.
+We are given RSA with standard params in the beginning.
+The e = 1367 is a bit unusual but still nothing that could lead to a vulnerability.
+
+The options for server communication we have are :
+
+1) Encrypt any message
+2) Decrypt any message that is not in any form related to the encrypted or decrypted flag
+3) Give the encrypted flag
+4) Rick Roll
+5) Exit
+
 
 
 ![Description](../../../images/Credentials.png)
