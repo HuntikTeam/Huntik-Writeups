@@ -47,7 +47,7 @@
 | Rev   | [rev lifetime](challenges/rev/rev-lifetime/)    |  9      |         |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/revlifetime.md) 
 | Web   | [Password Manager](challenges/rev/Password-Manager/)    |  357      |         |
 | Web   | [Political](challenges/rev/Political/)    |  152      |         |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/political.md) 
-| Web   | [Bad Todo](challenges/rev/Bad-Todo/)    |  75      |         |
+| Web   | [Bad Todo](challenges/rev/Bad-Todo/)    |  75      |         | [Bad Todo](https://rph.space/blog/irisctf-2025-bad-todo/)
 | Web   | [webwebhookhook](challenges/rev/webwebhookhook/)    |  16      |         |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/webwebhookhook.md) 
 
 
