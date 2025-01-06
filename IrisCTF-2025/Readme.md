@@ -9,9 +9,9 @@
 | Category    | Huntik Writeup   | Solves | Technique // Unintended Solution | Alternative Writeup   |
 | ----------- | ---------------  | ------ | ------------ | ---------------- | 
 | Cryptography   | [KittyCrypt](challenges/Cryptography/KittyCrypt/)    |    200     |      |           
-| Cryptography   | [knutsacque](challenges/Cryptography/knutsacque/)   |   64      |       |  https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/knutsacque.md
-| Cryptography   | [AYES](challenges/Cryptography/AYES/)    |    34     |            |  https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/ayes.md
-| Cryptography   | [SPHINCS5e](challenges/Cryptography/SPHINCS5/)    |   1      |      |  https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/sphincs5.md
+| Cryptography   | [knutsacque](challenges/Cryptography/knutsacque/)   |   64      |       |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/knutsacque.md)
+| Cryptography   | [AYES](challenges/Cryptography/AYES/)    |    34     |            |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/ayes.md)
+| Cryptography   | [SPHINCS5e](challenges/Cryptography/SPHINCS5/)    |   1      |      |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/sphincs5.md) 
 | Forensics   | [deldeldel](challenges/Forensics/deldeldel/)    |    241     |            |           
 | Forensics   | [Tracem 1](challenges/Forensics/Tracem-1/)    |  50       |    |           
 | Forensics   | [Windy Day](challenges/Forensics/Windy-Day/)    |   41      |     |           
@@ -23,8 +23,8 @@
 | Misc   | [O_WRONLY](challenges/Misc/O-WRONLY/)    |   63      |         |
 | Misc   | [Cobra's Den](challenges/Misc/Cobra's-Den/)    |   116      |         |
 | Misc   | [DΔς](challenges/Misc/DΔς/)    |   12      |         |
-| Misc   | [warden](challenges/Misc/warden/)    |   4      |         | https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/warden.md
-| Misc   | [prime5](challenges/Misc/prime5/)    |   0      |         | https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/prime5.md
+| Misc   | [warden](challenges/Misc/warden/)    |   4      |         |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/warden.md)
+| Misc   | [prime5](challenges/Misc/prime5/)    |   0      |         |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/prime5.md)
 | Networks   | [No Shark?](challenges/Networks/No-Shark?/)    |   194      |         |
 | Networks   | [Inferno Barrier](challenges/Networks/Inferno-Barrier/)    |   66      |         |
 | Networks   | [Shake My Hand](challenges/Networks/Shake-My-Hand/)    |   62      |         |
@@ -44,10 +44,10 @@
 | Rev   | [Crispy Kelp](challenges/rev/Crispy-Kelp/)    |  47      |         |
 | Rev   | [bunny jumper!](challenges/rev/bunny-jumper!/)    |  25      |         |
 | Rev   | [????????](challenges/rev/????????/)    |  7      |         |
-| Rev   | [rev lifetime](challenges/rev/rev-lifetime/)    |  9      |         | https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/revlifetime.md
+| Rev   | [rev lifetime](challenges/rev/rev-lifetime/)    |  9      |         |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/revlifetime.md) 
 | Web   | [Password Manager](challenges/rev/Password-Manager/)    |  357      |         |
-| Web   | [Political](challenges/rev/Political/)    |  152      |         | https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/political.md
+| Web   | [Political](challenges/rev/Political/)    |  152      |         |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/political.md) 
 | Web   | [Bad Todo](challenges/rev/Bad-Todo/)    |  75      |         |
-| Web   | [webwebhookhook](challenges/rev/webwebhookhook/)    |  16      |         | https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/webwebhookhook.md
+| Web   | [webwebhookhook](challenges/rev/webwebhookhook/)    |  16      |         |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/webwebhookhook.md) 
 
 
