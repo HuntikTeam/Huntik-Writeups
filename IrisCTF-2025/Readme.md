@@ -15,7 +15,7 @@
 | Forensics   | [deldeldel](challenges/Forensics/deldeldel/)    |    241     |            |           
 | Forensics   | [Tracem 1](challenges/Forensics/Tracem-1/)    |  50       |    | [Tracem 1](https://yun.ng/c/ctf/2025-iris-ctf/forensics/tracem-1)           
 | Forensics   | [Windy Day](challenges/Forensics/Windy-Day/)    |   41      |     |           
-| Forensics   | [Tracem 2](challenges/Forensics/Tracem-2/)    |   31      |         |   [Tracem 2](https://stefanin.com/posts/irisctf-tracem2/)
+| Forensics   | [Tracem 2](challenges/Forensics/Tracem-2/)    |   31      |         |   [Tracem 2](https://stefanin.com/posts/irisctf-tracem2/) ,  [Tracem 2](https://yun.ng/c/ctf/2025-iris-ctf/forensics/tracem-2)
 | Forensics   | [RIP Art](challenges/Forensics/RIP-Art/)    |   21      |         |        
 | Pwn   | [sqlate](challenges/Pwn/sqlate/)    |   166      |         |
 | Pwn   | [Checksumz](challenges/Pwn/Checksumz/)    |   39      |         |
