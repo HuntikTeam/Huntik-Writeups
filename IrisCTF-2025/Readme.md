@@ -28,7 +28,7 @@
 | Networks   | [No Shark?](challenges/Networks/No-Shark?/)    |   194      |         |
 | Networks   | [Inferno Barrier](challenges/Networks/Inferno-Barrier/)    |   66      |         |
 | Networks   | [Shake My Hand](challenges/Networks/Shake-My-Hand/)    |   62      |         |
-| Networks   | [NetHog](challenges/Networks/NetHog/)    |  3      |         |
+| Networks   | [NetHog](challenges/Networks/NetHog/)    |  3      |         | [Nethog](https://yun.ng/c/ctf/2025-iris-ctf/forensics/nethog)
 | OSINT   | [Checking Out of Winter](challenges/OSINT/Checking-Out-of-Winter/)    |  354      |         |
 | OSINT   | [Sleuths and Sweets](challenges/OSINT/Sleuths-and-Sweets/)    |  232      |         |
 | OSINT   | [Not Eelaborate](challenges/OSINT/Not-Eelaborate/)    |  187      |         |
@@ -37,8 +37,8 @@
 | OSINT   | [where's bobby](challenges/OSINT/where's-bobby/)    |  75      |         |
 | OSINT   | [where's bobby 2](challenges/OSINT/where's-bobby-2/)    |  104      |         |
 | Radio   | [dotdotdot](challenges/Radio/dotdotdot/)    |  150      |         |
-| Radio   | [RFoIP](challenges/Radio/RFoIP/)    |  56      |         |
-| Radio   | [SineFM](challenges/Radio/SineFM/)    |  26      |         |
+| Radio   | [RFoIP](challenges/Radio/RFoIP/)    |  56      |         | [RfoIP](https://yun.ng/c/ctf/2025-iris-ctf/radio/rfoip)
+| Radio   | [SineFM](challenges/Radio/SineFM/)    |  26      |         | [SineFM](https://yun.ng/c/ctf/2025-iris-ctf/radio/sinefm)
 | Radio   | [dotdotdot](challenges/Radio/Spicy-Messaging-Sinusoids/)    |  2      |         |
 | Rev   | [Now this will run on my 486?](challenges/rev/Now-this-will-run-on-my-486?/)    |  102      |         |
 | Rev   | [Crispy Kelp](challenges/rev/Crispy-Kelp/)    |  47      |         |
