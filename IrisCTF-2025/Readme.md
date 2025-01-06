@@ -42,7 +42,7 @@
 | Radio   | [dotdotdot](challenges/Radio/Spicy-Messaging-Sinusoids/)    |  2      |         |
 | Rev   | [Now this will run on my 486?](challenges/rev/Now-this-will-run-on-my-486?/)    |  102      |         |
 | Rev   | [Crispy Kelp](challenges/rev/Crispy-Kelp/)    |  47      |         |
-| Rev   | [bunny jumper!](challenges/rev/bunny jumper!/)    |  25      |         |
+| Rev   | [bunny jumper!](challenges/rev/bunny-jumper!/)    |  25      |         |
 | Rev   | [????????](challenges/rev/????????/)    |  7      |         |
 | Rev   | [rev lifetime](challenges/rev/rev-lifetime/)    |  9      |         |
 | Web   | [Password Manager](challenges/rev/Password-Manager/)    |  357      |         |
