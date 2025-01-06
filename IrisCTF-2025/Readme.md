@@ -22,7 +22,7 @@
 | Pwn   | [MyFiles](challenges/Pwn/MyFiles/)    |   36      |         |
 | Misc   | [O_WRONLY](challenges/Misc/O-WRONLY/)    |   63      |         |
 | Misc   | [Cobra's Den](challenges/Misc/Cobra's-Den/)    |   116      |         |
-| Misc   | [DΔς](challenges/Misc/DΔς/)    |   12      |         |
+| Misc   | [DΔς](challenges/Misc/DΔς/)    |   12      |         | [Dac](https://yun.ng/c/ctf/2025-iris-ctf/misc/dac)
 | Misc   | [warden](challenges/Misc/warden/)    |   4      |         |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/warden.md)
 | Misc   | [prime5](challenges/Misc/prime5/)    |   0      |         |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/prime5.md)
 | Networks   | [No Shark?](challenges/Networks/No-Shark?/)    |   194      |         |
