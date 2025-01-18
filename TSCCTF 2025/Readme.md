@@ -8,7 +8,7 @@
 
 | Category    | Huntik Writeup   | Solves | Technique // Unintended Solution | Alternative Writeup   |
 | ----------- | ---------------  | ------ | ------------ | ---------------- | 
-| Cryptography   | [KittyCrypt](challenges/Cryptography/KittyCrypt/)    |    200     |      |           
-| Cryptography   | [knutsacque](challenges/Cryptography/knutsacque/)   |   64      |       |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/knutsacque.md)
-| Cryptography   | [AYES](challenges/Cryptography/AYES/)    |    34     |            |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/ayes.md)
-| Cryptography   | [SPHINCS5e](challenges/Cryptography/SPHINCS5/)    |   1      |      |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/sphincs5.md) 
+| Cryptography   | [Very Simple Login](challenges/Cryptography/Very-Simple-Login/)    |    144     |      |           
+| Cryptography   | [Classic](challenges/Cryptography/Classic/)   |   130      |       |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/knutsacque.md)
+| Cryptography   | [2DES](challenges/Cryptography/2DES/)    |    30     |            |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/ayes.md)
+| Cryptography   | [我從來都不覺得算密碼學開心過](challenges/Cryptography/我從來都不覺得算密碼學開心過/)    |   23      |      |  [Author](https://github.com/Seraphin-/ctf/blob/master/2025/irisctf/sphincs5.md) 
