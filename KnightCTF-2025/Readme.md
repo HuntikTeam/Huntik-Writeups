@@ -1,4 +1,4 @@
-# TSCCTF - 2025
+# KnightCTF 2025
 
 ## Standings
 
