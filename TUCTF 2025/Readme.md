@@ -8,7 +8,7 @@
 
 | Category    | Huntik Writeup   | Solves | Technique // Unintended Solution | Alternative Writeup   |
 | ----------- | ---------------  | ------ | ------------ | ---------------- | 
-| Cryptography   | [My First Encryption](challenges/Cryptography/My First Encryption/)    |    263     |      |           
+| Cryptography   | [My-First-Encryption](challenges/Cryptography/My First Encryption/)    |    263     |      |           
 | Cryptography   | [XOR-Dinary](challenges/Cryptography/XOR-Dinary/)   |   194      |  Modular Arithmetics.You could easily bruteforce to find the correct characters.     |  
 | Cryptography   | [Files In The Web](challenges/Cryptography/Files-In-The-Web/)    |    127     |     DES Semi Weak Keys       |  [Maple](https://blog.maple3142.net/2025/01/16/tscctf-2025-writeups/#crypto)
 | Cryptography   | [Transmission](challenges/Cryptography/Transmission/)    |   61      |  Solving system linear equations + small bruteforce    |  [Maple](https://blog.maple3142.net/2025/01/16/tscctf-2025-writeups/#crypto) 
