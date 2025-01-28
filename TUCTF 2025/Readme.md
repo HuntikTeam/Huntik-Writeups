@@ -1,5 +1,8 @@
 # TUCTF - 2025
 
+## Challenges Repo
+https://github.com/nsr3953/tuctf24-public
+
 ## Standings
 
 ![Description](./images/TeamStandings.png)
